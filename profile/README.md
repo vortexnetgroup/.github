@@ -11,7 +11,7 @@
 
 ## about
 
-[/vortexnet/] is a 3 people group based in new mexico.
+[/vortexnet/] is a 3 people group based in new mexico. •º•
 we make projects and stuff, and we enjoy feedback from people using it and testing our stuff (￣▽￣)ノ
 
 ## devs
@@ -28,8 +28,8 @@ we make projects and stuff, and we enjoy feedback from people using it and testi
 ## feedback
 
 we like feedback.
-testing, bugs, and thoughts. 
-if you can please make PR requests or issue tickets for our projects,
+testing, bugs, and thoughts. ( ¬‿¬)
+if you can please make PR requests or issue tickets for our projects, ლ(╹◡╹ლ)
 
 
 - the [/vortexnet/] crew
