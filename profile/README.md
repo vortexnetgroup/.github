@@ -27,6 +27,24 @@ we make projects and stuff, and we enjoy feedback from people using it and testi
 "Hello, I am Dev3, I am a gamer, I am one of the developers(I am new)"  
 - dev3
 
+## discord server
+
+
+
+<p align="center">
+  <a href="https://discord.gg/PTZBj2g3wZ">
+    <img
+      src="https://github.com/user-attachments/assets/d6a02ba7-8b27-4f25-a335-012336161d6b"
+      alt="Join our Discord"
+      width="350"
+    />
+  </a>
+</p>
+
+
+
+
+
 ## feedback
 
 we like feedback.
